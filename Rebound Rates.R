@@ -1,3 +1,7 @@
+library(tidyverse)
+library(ggplot2)
+library(ggimage)
+
 traditional <- 
   read_csv("teams_traditional.csv") %>%
   select(TEAM, OREB, DREB)
