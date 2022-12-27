@@ -1,6 +1,6 @@
-# Rebound Rates
+# Team Comparisons
 
-*NBA teams graphed by offensive and defensive rebound rates, by team and opponent turnover averages. Visualizations posted on Twitter [here](https://twitter.com/jeremydumalig/status/1607269743937081350?s=20&t=9jiWSzSf9w_XgQOpG5SiIw) and [here](google.com).*
+*NBA teams graphed by offensive and defensive rebound rates, by team and opponent turnover averages. Visualizations posted on Twitter [here](https://twitter.com/jeremydumalig/status/1607269743937081350?s=20&t=9jiWSzSf9w_XgQOpG5SiIw).*
 
 *Packages/Libraries Used : tidyverse, ggplot, ggimage*
 
